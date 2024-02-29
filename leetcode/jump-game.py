@@ -12,4 +12,4 @@ class Solution:
                         return False
                     i-=1
                 j=i
-        return True
+        return "True"
